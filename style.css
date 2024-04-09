@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#header {
+    background-color: #021427;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+.left-column,
+.right-column {
+    width: 48%;
+    flex: 1;
+}
+.left-column {
+    background-color: #f8f9fa;
+    padding: 10px;
+   
+}
+.right-column {
+    background-color: #e9ecef;
+    padding: 10px;
+}
+.container {
+    display: flex;
+}
+footer {
+    background-color: #6c757d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+#box {
+    text-align: center;
+}
